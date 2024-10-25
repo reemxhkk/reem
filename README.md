@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Reem Xhk ... and I'm a passionate student of Ai..., interested n exploring and learning new skills ....</h2>
+<h2 align="left">👋 Hi, I’m Reem Xhk
+🌱 I’m currently learning python
+💞️ I'm a passionate student of Ai
+👀 I’m interested in learn coding
+✨ In my free time, I enjoy exploring and editing! 💻</h2>
 
 ###
 

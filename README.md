@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I’m Reem Xhk 👩‍💻</p>
+<h2 align="left">🌸 Hi, I’m Reem Xhk 🌸</p>
 </p>🤖 I'm a passionate student of Ai </p>
 </p>💻 I’m currently learning python </p>
 </p>🚀 I’m interested in explore an learning new skills</p></h2>

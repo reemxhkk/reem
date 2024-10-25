@@ -1,8 +1,8 @@
 <h2 align="left">👋 Hi, I’m Reem Xhk
 </p>🌱 I’m currently learning python</p>
-💞️ I'm a passionate student of Ai
-👀 I’m interested in learn coding
-✨ In my free time, I enjoy exploring and editing! 💻</h2>
+</p>💞️ I'm a passionate student of Ai</p>
+</p>👀 I’m interested in learn coding</p>
+</p>✨ In my free time, I enjoy exploring and editing! 💻</p></h2>
 
 ###
 

@@ -1,8 +1,7 @@
-<h2 align="left">👋 Hi, I’m Reem Xhk
-</p>🌱 I’m currently learning python</p>
-</p>💞️ I'm a passionate student of Ai</p>
-</p>👀 I’m interested in learn coding</p>
-</p>✨ In my free time, I enjoy exploring and editing! 💻</p></h2>
+<h2 align="left">👋 Hi, I’m Reem Xhk 👩‍💻</p>
+</p>🤖 I'm a passionate student of Ai </p>
+</p>💻 I’m currently learning python </p>
+</p>🚀 I’m interested in explore an learning new skills</p></h2>
 
 ###
 
